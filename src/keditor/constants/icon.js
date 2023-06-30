@@ -2,8 +2,8 @@ const ICON = {
     ADD_CONTENT: '<i class="fa fa-plus"></i>',
     PASTE_CONTENT: '<i class="fa fa-paste"></i>',
     
-    MOVE_CONTAINER: '<i class="fa fa-arrows-v"></i>',
-    MOVE_COMPONENT: '<i class="fa fa-arrows"></i>',
+    MOVE_CONTAINER: '<i class="fa fa-arrows-alt"></i>',
+    MOVE_COMPONENT: '<i class="fa fa-arrows-alt"></i>',
     
     MOVE_UP_CONTAINER: '<i class="fa fa-chevron-up"></i>',
     MOVE_UP_COMPONENT: '<i class="fa fa-chevron-up"></i>',
@@ -14,17 +14,17 @@ const ICON = {
     SETTING_CONTAINER: '<i class="fa fa-cog"></i>',
     SETTING_COMPONENT: '<i class="fa fa-cog"></i>',
     
-    DUPLICATE_CONTAINER: '<i class="fa fa-files-o"></i>',
-    DUPLICATE_COMPONENT: '<i class="fa fa-files-o"></i>',
+    DUPLICATE_CONTAINER: '<i class="fa fa-copy"></i>',
+    DUPLICATE_COMPONENT: '<i class="fa fa-copy"></i>',
     
-    COPY_CONTAINER: '<i class="fa fa-files-o"></i>',
-    COPY_COMPONENT: '<i class="fa fa-files-o"></i>',
+    COPY_CONTAINER: '<i class="fa fa-copy"></i>',
+    COPY_COMPONENT: '<i class="fa fa-copy"></i>',
     
     CUT_CONTAINER: '<i class="fa fa-cut"></i>',
     CUT_COMPONENT: '<i class="fa fa-cut"></i>',
     
-    DELETE_CONTAINER: '<i class="fa fa-trash-o"></i>',
-    DELETE_COMPONENT: '<i class="fa fa-trash-o"></i>',
+    DELETE_CONTAINER: '<i class="fa fa-trash"></i>',
+    DELETE_COMPONENT: '<i class="fa fa-trash"></i>',
     
     DEVICE_MOBILE: '<i class="fa fa-fw fa-mobile"></i>',
     DEVICE_TABLET: '<i class="fa fa-fw fa-tablet"></i>',

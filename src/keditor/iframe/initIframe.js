@@ -9,8 +9,8 @@ export default function () {
     let wrapperId = self.generateId();
     let wrapper = self.wrapper = $(`
         <div id="${wrapperId}" class="${CSS_CLASS.UI} ${CSS_CLASS.WRAPPER}">
-            <div class="${CSS_CLASS.UI} ${CSS_CLASS.IFRAME_WRAPPER}">
-                <div class="${CSS_CLASS.UI} ${CSS_CLASS.IFRAME_WIDTH_SWITCHER}">
+            <div class="${CSS_CLASS.UI} ${CSS_CLASS.UI_100VH} ${CSS_CLASS.IFRAME_WRAPPER}">
+                <div class="${CSS_CLASS.UI} ${CSS_CLASS.UI_100VH} ${CSS_CLASS.IFRAME_WIDTH_SWITCHER}">
                     <iframe class="${CSS_CLASS.UI} ${CSS_CLASS.IFRAME}"></iframe>
                 </div>
             </div>

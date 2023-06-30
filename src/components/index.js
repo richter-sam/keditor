@@ -6,11 +6,10 @@ import './keditor-component-googlemap.js';
 
 import './keditor-component-photo.js';
 
-import './keditor-component-text.js';
-
 import './keditor-component-video.js';
 
 import './keditor-component-vimeo.js';
 
 import './keditor-component-youtube.js';
 
+import './keditor-component-content.js';

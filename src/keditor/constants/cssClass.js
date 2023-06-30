@@ -4,6 +4,7 @@ const CSS_CLASS = {
     UI_HIDDEN: 'keditor-ui-hidden',
     UI_CUTTING: 'keditor-ui-cutting',
     UI_RESIZER: 'ui-resizable-resizer',
+    UI_100VH: 'ui-100vh',
     
     SORTABLE: 'ui-sortable',
     RESIZABLE: 'ui-sortable',

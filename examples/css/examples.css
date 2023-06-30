@@ -1,7 +1,7 @@
-html,
+/* html,
 body {
     height: 100%;
-}
+} */
 
 [data-keditor="html"] {
     height: 100%;
@@ -15,7 +15,7 @@ body {
     min-height: 100%;
 }
 
-#header,
+/* #header,
 #body,
 #footer {
     padding: 30px;
@@ -56,4 +56,4 @@ pre.prettyprint {
 
 #modal-content pre.prettyprint {
     border-width: 1px;
-}
+} */
